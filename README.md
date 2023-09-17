@@ -13,6 +13,6 @@ It powered by:
 
 ~~Other version with [Tini](https://github.com/krallin/tini) init will be availabe soon.~~
 
-A [dinit](https://gitlab.com/tozd/dinit) will be updated when [dinit](https://gitlab.com/tozd/dinit) has been stable.
+A [dinit](https://gitlab.com/tozd/dinit) will be updated when [dinit](https://gitlab.com/tozd/dinit) became stable.
 
 Tested by [Podman](https://podman.io) on [Void (Linux)](https://voidlinux.org) desktop.
