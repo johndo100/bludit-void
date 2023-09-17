@@ -11,7 +11,7 @@ It powered by:
 - [Bludit](https://www.bludit.com)
 - [s6-overlay](https://github.com/just-containers/s6-overlay)
 
-~~~Other version with [Tini](https://github.com/krallin/tini) init will be availabe soon.~~~
+~~Other version with [Tini](https://github.com/krallin/tini) init will be availabe soon.~~
 
 A [dinit](https://gitlab.com/tozd/dinit) will be updated when [dinit](https://gitlab.com/tozd/dinit) has been stable.
 
