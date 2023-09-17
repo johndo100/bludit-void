@@ -15,7 +15,7 @@ ENV BLUDIT_CONTENT=/usr/share/nginx/html/bl-content
 
 # install xz nginx and php
 RUN xbps-install -Syu && \
-	xbps-install -Syu xz bash curl && \
+	xbps-install -Syu xz curl && \
 	xbps-install -Syu nginx && \
 	xbps-install -Syu php${PHP_VERSION} php${PHP_VERSION}-fpm php${PHP_VERSION}-gd
 
