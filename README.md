@@ -47,6 +47,6 @@ docker run --name bludit \
     -d johndo100/bludit-void
 ```
 
-To get access visit with your browser http://localhost:8000
+To get access visit with your browser http://localhost:8000.
 
 Tested by [Podman](https://podman.io) on [Void (Linux)](https://voidlinux.org) desktop.
