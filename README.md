@@ -13,7 +13,7 @@ It powered by:
 
 ~~Other version with [Tini](https://github.com/krallin/tini) init will be availabe soon.~~
 
-A [dinit](https://gitlab.com/tozd/dinit) will be updated when [dinit](https://gitlab.com/tozd/dinit) became stable.
+A [dinit](https://gitlab.com/tozd/dinit) version will be updated when [dinit](https://gitlab.com/tozd/dinit) became stable.
 
 ### Run the container
 
