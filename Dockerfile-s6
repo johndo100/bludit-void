@@ -46,7 +46,7 @@ RUN chown -R http:http /usr/share/nginx/html && \
 	chown http:http /var/log/php-fpm.log && \
 	mkdir -p /var/run/php && \
 	chown -R http:http /var/run/php && \
-	chown -R /var/lib/nginx
+	chown -R http:http /var/lib/nginx
 
 # bludit installation
 WORKDIR /tmp
